@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "",
+    "slug": "TechCrush",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/Splash.png",
+    "scheme": "techcrush",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-router",
+      "expo-splash-screen"
+    ]
+  }
+}
+
